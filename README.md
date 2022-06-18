@@ -3,8 +3,9 @@
   <br/>
   <hr/>
   <h2> Games</h2>
-🎮 [LGGJ ⚔️ APUH](#LGGJ-⚔️-APUH) <br/>
+  <br/> 
+  :video_game: [LGGJ-:crossed_swords:-APUH](#LGGJ-:crossed_swords:-APUH) <br/>
   
-  ## LGGJ ⚔️ APUH
+  ## LGGJ :crossed_swords: APUH
   
 ![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
