@@ -4,7 +4,6 @@
   <hr/>
   <h2> Games</h2>
   <br/> 
-  :video_game: [LGGJ-:crossed_swords:-APUH](#LGGJ-:crossed_swords:-APUH) <br/>
   
   ## LGGJ :crossed_swords: APUH
   
